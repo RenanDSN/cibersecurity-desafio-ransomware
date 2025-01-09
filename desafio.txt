@@ -1,0 +1,1 @@
+Esse arquivo e referente ao desafio da DIO de criacao de Ransomware para o bootcamp Santander
